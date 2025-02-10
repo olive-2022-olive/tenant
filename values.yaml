@@ -1,0 +1,2 @@
+namespace: tenant2
+serviceAccountName: tenant2-user

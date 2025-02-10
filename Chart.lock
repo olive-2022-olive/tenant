@@ -1,0 +1,6 @@
+dependencies:
+- name: utilities
+  repository: https://code.omilab.org/api/v4/projects/431/packages/helm/stable
+  version: 0.1.0
+digest: sha256:0a1e553bc84b76ee3d34e8c2a7c39bd41886e3f1686ef3f2599d22ff3f3130e5
+generated: "2025-02-05T10:39:23.2539771+01:00"
